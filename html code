@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Landing page for a fictional product launch">
+  <title>ProductX - Boost Your Workflow</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="hero">
+    <div class="container">
+      <h1>Introducing ProductX</h1>
+      <p>Revolutionize your workflow with the ultimate productivity tool.</p>
+      <a href="#subscribe" class="cta-button">Get Started</a>
+    </div>
+  </header>
+
+  <section class="features">
+    <div class="container">
+      <h2>Why Choose ProductX?</h2>
+      <div class="feature-grid">
+        <div class="feature">
+          <h3>Fast</h3>
+          <p>Blazing fast performance tailored for modern teams.</p>
+        </div>
+        <div class="feature">
+          <h3>Secure</h3>
+          <p>Industry-leading security to protect your data.</p>
+        </div>
+        <div class="feature">
+          <h3>Customizable</h3>
+          <p>Adapt the tool to your specific business needs.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials">
+    <div class="container">
+      <h2>What Our Users Say</h2>
+      <blockquote>
+        "ProductX changed the way we manage our projects!"
+        <cite>– Alex, Marketing Lead</cite>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="subscribe" id="subscribe">
+    <div class="container">
+      <h2>Join Our Newsletter</h2>
+      <form action="#" method="post">
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2025 ProductX. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
