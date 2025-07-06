@@ -22,5 +22,7 @@ A clean and modern marketing landing page built using **HTML5** and **CSS3**. De
 - CSS3 (Flexbox & Grid)  
 - Google Fonts (Roboto)
 
----
+## Previews
+![image](https://github.com/user-attachments/assets/853177c4-269f-4d4d-984a-5d8bfc777258)
+
 
